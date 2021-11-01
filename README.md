@@ -10,7 +10,7 @@
 <a href="https://instagram.com/_kunjan01">
   <img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img align="right" height="270px" width="350px" alt="JPG" src="https://media.discordapp.net/attachments/804585666469167154/904610837195534336/b93dc1c952e934ca389acd90f964eed7.jpg" />
+<img align="right" height="270px" width="350px" alt="JPG" src="https://cdn.discordapp.com/attachments/742775612179218512/744725004633112586/ezgif.com-gif-maker_4.gif" />
 
 &nbsp;&nbsp; <h3> 👨🏻‍💻 About Me </h3>
  :heart: LISTENING TO MUSIC  | :blue_heart: Programming
