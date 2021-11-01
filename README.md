@@ -34,7 +34,7 @@
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
 <a href="https://discord.gg/CV85JeY"><img alt="discord" src="https://img.shields.io/discord/739811034734264422?label=DISCORD&logo=discord&logoColor=fff"></a>
 <a href="https://instagram.com/_kunjan01?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kunjan01-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ritikdhayal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ritikdhayal-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-AKM-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>
 
