@@ -1,5 +1,5 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
- I'm PHOENIX.</h2>
+ I'm AKM.</h2>
 
 <a href="https://discord.gg/CV85JeY">
   <img align="left" alt="Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
