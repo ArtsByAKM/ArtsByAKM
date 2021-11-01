@@ -50,4 +50,4 @@
 </p>
 
 
-❤️ From [PHOENIX](https://discord.gg/nthHcvz)
+❤️ From [AKM
