@@ -10,7 +10,7 @@
 <a href="https://instagram.com/_kunjan01">
   <img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img align="right" height="270px" width="350px" alt="GIF" src="https://cdn.discordapp.com/attachments/742775612179218512/744725004633112586/ezgif.com-gif-maker_4.gif" />
+<img align="right" height="270px" width="350px" alt="JPG" src="https://media.discordapp.net/attachments/804585666469167154/904610837195534336/b93dc1c952e934ca389acd90f964eed7.jpg" />
 
 &nbsp;&nbsp; <h3> 👨🏻‍💻 About Me </h3>
  :heart: LISTENING TO MUSIC  | :blue_heart: Programming
@@ -33,7 +33,7 @@
 <p align="center">
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
 <a href="https://discord.gg/CV85JeY"><img alt="discord" src="https://img.shields.io/discord/739811034734264422?label=DISCORD&logo=discord&logoColor=fff"></a>
-<a href="https://instagram.com/_kunjan01?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ig_ritikdhayal-blue?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/_kunjan01?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kunjan01-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ritikdhayal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ritikdhayal-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>
